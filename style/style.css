@@ -47,3 +47,28 @@
   font-size: 65px;
   margin-bottom: 37px;
 }
+
+img{
+  height: 328px;
+  width: 403px;
+  border-radius: 45px;
+}
+.text-dicrepiton{
+  display: flex;
+  justify-content: space-between;
+  margin: 116px 159px 0px 141px;
+  
+}
+.font-prymare{
+  font-weight: bold;
+  font-size: 42px;
+  color: #252432;
+}
+.peagip{
+  font-size: 24px;
+  color: #252432;
+}
+
+.text-div{
+  max-width: 517px;
+}
