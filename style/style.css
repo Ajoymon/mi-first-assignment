@@ -72,3 +72,41 @@ img{
 .text-div{
   max-width: 517px;
 }
+ .maine-contaner{
+  text-align: center;
+   margin:116px 159px 0px 141px ; 
+  background-color: #CAC8F1;
+  max-width: 1140px;
+ max-height: 306px;
+ border-radius: 10px;
+}
+.hader{
+  font-weight: bold;
+  font-style: 50px;
+  color: #252432;
+ padding-top: 50px;
+ 
+}
+.container{
+  display: flex;
+  gap: 158px;
+
+ 
+ 
+ 
+  
+}  
+.container{
+  padding:5px 142px 50px 142px ;
+}
+.row{
+  font-size: 80px;
+  font-weight: bold; 
+  width: 174px;
+  height: 5px;
+  color: #3F38A1;
+}
+.column{
+  font-size: 20px;
+  color: #000000;
+}
