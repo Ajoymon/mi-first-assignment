@@ -169,3 +169,44 @@ color: #B3B3B3;
 .name{
 color: #757575;
 }
+
+.hiding-2{
+  font-weight: bold;
+  font-size: 90px;
+  width: 528px;
+  height: 233px;
+  padding:  200px 612px 200px 0px;
+}
+.foram{
+  padding: 71px 0px 71px 643px;
+  width: 497px;
+  height: 490px;
+}
+.list-zmla{
+  width:100%;
+  height: 428px;
+  
+}
+div a{
+  text-decoration: none;
+  margin-right: 48px;
+  color:#8987A1 ;
+}
+.futre-tag{
+  width: 531px;
+  height:233px ;
+  
+  padding: 98px 455px;
+}
+.list-hading{
+  font-weight: 900px;
+  font-size: 100px;
+  text-align: center;
+  max-height: 291px;
+  max-height: 50px;
+  color: #4E47FF;
+}
+.color{
+  font-size: 18px;
+  color: #8987A1;
+}
