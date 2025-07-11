@@ -1,5 +1,4 @@
 
-
 .open-sans-uniquifier {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -84,7 +83,7 @@ img{
   font-weight: bold;
   font-style: 50px;
   color: #252432;
- padding-top: 50px;
+ padding-bottom: ;
  
 }
 .container{
@@ -102,11 +101,71 @@ img{
 .row{
   font-size: 80px;
   font-weight: bold; 
-  width: 174px;
-  height: 5px;
+  max-width: 174px;
+  max-height: 5px;
   color: #3F38A1;
 }
 .column{
   font-size: 20px;
   color: #000000;
+}
+ ul {
+width: 1px;
+height: 1px;
+display: flex;
+}
+.ster{
+  width: 20px;
+  height: 20px;
+  margin-right: 3px;
+} 
+.clint{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.first-hading{
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 50px;
+  
+}
+.conter-segint{
+
+margin:137px 149px 129px 151px;
+width: 1140px;
+height: 350px;
+
+}
+.segint-contaner{
+  display: flex;
+  gap: 20px;
+}
+.contener-in{
+  display: flex;
+  align-items: center;
+}
+.first-contener{
+  width: 366px;
+  height: 243px;
+  background-color: whitesmoke;
+  padding: 24px;
+  border-radius: 10px;
+
+}
+.font-sije{
+  font-weight: bolder;
+  font-size: 24px;
+  color: #1E1E1E;
+}
+.pading{
+  font-size: 16px;
+  color: #303030;
+}
+.deat{
+color: #B3B3B3;
+}
+.name{
+color: #757575;
 }
